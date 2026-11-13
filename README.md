@@ -64,6 +64,15 @@ Os dados utilizados nesta versão são fictícios e destinam-se à demonstraçã
 ![Modelo do Grafo MusicMatch Explain](imagens/modelo_grafo.png)
 
 
+### Grafo implementado no Neo4j Aura
+
+Visualização dos relacionamentos entre usuários,
+músicas, artistas e gêneros musicais.
+
+![Grafo de Bruno no Neo4j](imagens/grafo_bruno.png)
+
+
+
 ## 5. Como funciona o algoritmo?
 
 O algoritmo utiliza filtragem colaborativa baseada em usuários.
