@@ -169,7 +169,15 @@ Portanto, o projeto demonstra o funcionamento técnico da abordagem, sem reivind
 - Avaliar a qualidade das sugestões com métricas apropriadas.
 - Integrar o Neo4j a uma aplicação.
 
-## 12. Considerações finais
+## 12. Ferramentas de Apoio ao Desenvolvimento
+
+O projeto foi desenvolvido com o apoio do ChatGPT (OpenAI), utilizado como ferramenta de suporte ao aprendizado, à estruturação dos scripts Cypher, à implementação do algoritmo de recomendação e à elaboração da documentação.
+
+Durante o desenvolvimento, executei as consultas, analisei os resultados e validei o funcionamento do projeto no Neo4j Aura.
+
+Essa experiência também contribuiu para ampliar minha compreensão das diferenças entre bancos de dados relacionais (SQL) e bancos de dados orientados a grafos (Neo4j).
+
+## 13. Considerações finais
 
 O desenvolvimento do MusicMatch Explain permitiu aplicar conceitos de modelagem de grafos, consultas Cypher, agregações e algoritmos de recomendação.
 
